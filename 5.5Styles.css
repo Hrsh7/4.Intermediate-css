@@ -1,0 +1,27 @@
+body{
+    /* margin-top:0px;
+    margin-left: 0px; */
+    /* or */
+    margin: 0;
+}
+h1{
+    margin-top:0px;
+}
+div{
+    width: 200px;
+    height: 200px;
+}
+.topcontainer{
+    border: 10px solid;
+    background-color: #6EDCD9;
+}
+.middlecontainer{
+    margin-left: 220px;
+    border: 20px solid;
+    background-color:red;
+}
+.bottomcontainer{
+    margin-left: 460px;
+    border: 10px solid;
+    background-color:blue;
+}
